@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "127472995292",
+    "project_id": "antares-15f0d",
+    "storage_bucket": "antares-15f0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127472995292:android:2464ab721a3f851bf79d19",
+        "android_client_info": {
+          "package_name": "com.Antares.antares_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127472995292-m0kneov0dojhv7a9rbr0mhp4bam5srd0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Antares.antares_app",
+            "certificate_hash": "0f21bf6c71c4fd1ef47e1c894d60c04f056b3d9c"
+          }
+        },
+        {
+          "client_id": "127472995292-2acp3u8ql4uuj8s2ehged8tdtdjmsho9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChWYZ9Mg1BP1Cnc0zy2T3paIbx-GeIAVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127472995292-2acp3u8ql4uuj8s2ehged8tdtdjmsho9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
